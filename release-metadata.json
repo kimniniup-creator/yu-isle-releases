@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "applicationId": "group.kim.yuisle",
-  "versionCode": 43,
-  "versionName": "1.0.42",
-  "tag": "v1.0.42",
-  "sourceCommit": "1a481afec960bb45b0231a18f18a7f59b6278f78",
-  "publishedAt": "2026-08-24T15:59:39.304Z",
-  "releasePage": "https://github.com/kimniniup-creator/yu-isle-releases/releases/tag/v1.0.42",
+  "versionCode": 44,
+  "versionName": "1.0.43",
+  "tag": "v1.0.43",
+  "sourceCommit": "7477e5ea19fb419faf778c67a294c7b3b6ec583a",
+  "publishedAt": "2026-08-25T20:21:35.134Z",
+  "releasePage": "https://github.com/kimniniup-creator/yu-isle-releases/releases/tag/v1.0.43",
   "apk": {
-    "fileName": "yu-isle-v1.0.42-release.apk",
-    "size": 37841994,
-    "sha256": "a60e86e8ff86d04d3292eaa4bb54c62447b42ef929749e09fce7d277c23301eb",
-    "downloadUrl": "https://github.com/kimniniup-creator/yu-isle-releases/releases/download/v1.0.42/yu-isle-v1.0.42-release.apk"
+    "fileName": "yu-isle-v1.0.43-release.apk",
+    "size": 37844926,
+    "sha256": "f0246948ff3d57a70215b279132f0f593334c16ba0a2836f6e4d20dc3ed30782",
+    "downloadUrl": "https://github.com/kimniniup-creator/yu-isle-releases/releases/download/v1.0.43/yu-isle-v1.0.43-release.apk"
   }
 }
