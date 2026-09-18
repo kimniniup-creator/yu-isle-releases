@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
   "applicationId": "group.kim.yuisle",
-  "versionCode": 62,
-  "versionName": "1.0.61",
-  "tag": "v1.0.61",
-  "sourceCommit": "069dfe21da4e9cdf4e225d5872e54db5bb42758f",
-  "publishedAt": "2026-09-16T16:09:56.618Z",
-  "releasePage": "https://github.com/kimniniup-creator/yu-isle-releases/releases/tag/v1.0.61",
+  "versionCode": 63,
+  "versionName": "1.0.62",
+  "tag": "v1.0.62",
+  "sourceCommit": "0341a0da85c7221a27d8f1fae9adca56e565986c",
+  "publishedAt": "2026-09-18T17:38:18.341Z",
+  "releasePage": "https://github.com/kimniniup-creator/yu-isle-releases/releases/tag/v1.0.62",
   "apk": {
-    "fileName": "yu-isle-v1.0.61-release.apk",
-    "size": 37856192,
-    "sha256": "d6136aec7d2150dfc41220e983b4c22c7ee815f9bdf213febf8cf8adceb59693",
-    "downloadUrl": "https://github.com/kimniniup-creator/yu-isle-releases/releases/download/v1.0.61/yu-isle-v1.0.61-release.apk"
+    "fileName": "yu-isle-v1.0.62-release.apk",
+    "size": 37861741,
+    "sha256": "6ac2d9577c85b0d1ea2f8043120b1fd15dae314c7da3af7a6ae323982d2d47c2",
+    "downloadUrl": "https://github.com/kimniniup-creator/yu-isle-releases/releases/download/v1.0.62/yu-isle-v1.0.62-release.apk"
   }
 }
